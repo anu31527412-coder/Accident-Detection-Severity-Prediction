@@ -1,0 +1,7 @@
+weather,road,speed,severity
+Clear,Highway,80,High
+Rainy,Urban,40,Medium
+Snowy,Rural,30,Low
+Clear,Urban,60,Medium
+Rainy,Highway,100,High
+Snowy,Highway,50,Low
